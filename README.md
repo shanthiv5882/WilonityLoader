@@ -86,7 +86,7 @@ We believe in:
 
 ### Steps
 1. Download the latest installer from our [official website](https://wilonity.xyz)
-2. Run the setup and follow the instructions
+2. Run the setup and follow the instructions.
 3. Launch Wilonity Loader from your desktop shortcut.
 4. Select your game and enjoy!
 
