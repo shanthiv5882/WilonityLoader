@@ -60,7 +60,7 @@ We believe in:
 <!-- ============================================================ -->
 <img src="https://wilonity.xyz/assets/ddd.png" alt="Wilonity Loader Interface" width="800" style="border-radius:16px; border: 1px solid #2a2a3a;">
 
-*Wilonity Loader interface – clean, fast, and intuitive*
+*Wilonity Loader interface – clean, fast, and intuitive.*
 
 </div>
 
